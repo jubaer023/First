@@ -1,3 +1,3 @@
 # First github
-This if First github page
+This is First github page
 
